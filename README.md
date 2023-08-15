@@ -3,4 +3,4 @@
 This project is deployed via Netlify
 
 __Please visit__
-[Muggle Cafe](https://mugglecafe.netlify.app)https://mugglecafe.netlify.app)
+[Muggle Cafe](https://mugglecafe.netlify.app)
